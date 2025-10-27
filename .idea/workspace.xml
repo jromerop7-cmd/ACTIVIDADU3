@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0ce45fd-704e-45a9-be67-103d48816197" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TALLER14/src/ejercicio1/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TALLER14/Ejercicios/ejercicio1/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TALLER14/src/ejercicio1/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TALLER14/Ejercicios/ejercicio1/Rectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TALLER14/src/ejercicio1/figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/TALLER14/Ejercicios/ejercicio1/figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TALLER14/src/ejercicio1/prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/TALLER14/Ejercicios/ejercicio1/prueba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TALLER14/src/ejercicio2/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/TALLER14/Ejercicios/ejercicio2/Estudiante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TALLER14/src/ejercicio2/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/TALLER14/Ejercicios/ejercicio2/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TALLER14/src/ejercicio2/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/TALLER14/Ejercicios/ejercicio2/Profesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TALLER14/src/ejercicio2/Prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/TALLER14/Ejercicios/ejercicio2/Prueba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="34f746xqQPUPz0plZSvnUFoeBpW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,9 +46,25 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/ACTIVIDADU3/TALLER14/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ACTIVIDADU3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ACTIVIDADU3" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,7 +80,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761592577171</updated>
-      <workItem from="1761592578312" duration="3469000" />
+      <workItem from="1761592578312" duration="3694000" />
+      <workItem from="1761606958772" duration="304000" />
+      <workItem from="1761607271213" duration="701000" />
     </task>
     <servers />
   </component>
